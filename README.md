@@ -80,6 +80,8 @@ http://willyg302.github.io/blog/posts/2015-03-29-python-on-aws-lambda/
 * 500ms per execution is high, need to figure out a way to lower it
 * need to test how to build and use rubygems (pure ruby and with C"
 * code generation for template and other boilerplate code
+* re-enable param processing and return values
+* build examples to use with API gateway and use S3, RDS, SQS
 
 
 
